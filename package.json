@@ -1,0 +1,29 @@
+{
+  "name": "dbase2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+
+
+    "prob1": "node buot-prob1.js",
+    "prob2": "node buot-prob2.js",
+    "prob3": "node buot-prob3.js",
+    "prob4": "node buot-prob4.js",
+    "prob5": "node buot-prob5.js",
+    "prob6": "node buot-prob6.js",
+    "prob7": "node buot-prob7.js"
+
+  
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
